@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		E913050224923A4D001CD0A7 /* ConstantsTemplate.swift in Sources */ = {isa = PBXBuildFile; fileRef = E913050124923A4D001CD0A7 /* ConstantsTemplate.swift */; };
 		E955483D248DE49F00A751E7 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = E955483C248DE49F00A751E7 /* AppDelegate.swift */; };
 		E955483F248DE49F00A751E7 /* SceneDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = E955483E248DE49F00A751E7 /* SceneDelegate.swift */; };
 		E9554841248DE49F00A751E7 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = E9554840248DE49F00A751E7 /* ViewController.swift */; };
@@ -20,6 +21,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		E913050124923A4D001CD0A7 /* ConstantsTemplate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ConstantsTemplate.swift; sourceTree = "<group>"; };
 		E9554839248DE49F00A751E7 /* youtube-onedaybuild.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "youtube-onedaybuild.app"; sourceTree = BUILT_PRODUCTS_DIR; };
 		E955483C248DE49F00A751E7 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		E955483E248DE49F00A751E7 /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
@@ -72,6 +74,7 @@
 				E9554847248DE4A000A751E7 /* LaunchScreen.storyboard */,
 				E955484A248DE4A000A751E7 /* Info.plist */,
 				E9554850248E08C900A751E7 /* Constants.swift */,
+				E913050124923A4D001CD0A7 /* ConstantsTemplate.swift */,
 				E9554852248E0C2300A751E7 /* Video.swift */,
 				E9554856248E272A00A751E7 /* Response.swift */,
 				E9554854248E100A00A751E7 /* Model.swift */,
@@ -153,6 +156,7 @@
 				E9554841248DE49F00A751E7 /* ViewController.swift in Sources */,
 				E955483D248DE49F00A751E7 /* AppDelegate.swift in Sources */,
 				E955483F248DE49F00A751E7 /* SceneDelegate.swift in Sources */,
+				E913050224923A4D001CD0A7 /* ConstantsTemplate.swift in Sources */,
 				E9554855248E100A00A751E7 /* Model.swift in Sources */,
 				E9554851248E08C900A751E7 /* Constants.swift in Sources */,
 				E9554853248E0C2300A751E7 /* Video.swift in Sources */,
