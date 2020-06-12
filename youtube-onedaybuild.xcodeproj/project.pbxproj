@@ -68,16 +68,16 @@
 			children = (
 				E955483C248DE49F00A751E7 /* AppDelegate.swift */,
 				E955483E248DE49F00A751E7 /* SceneDelegate.swift */,
-				E9554840248DE49F00A751E7 /* ViewController.swift */,
-				E9554842248DE49F00A751E7 /* Main.storyboard */,
-				E9554845248DE4A000A751E7 /* Assets.xcassets */,
-				E9554847248DE4A000A751E7 /* LaunchScreen.storyboard */,
-				E955484A248DE4A000A751E7 /* Info.plist */,
 				E9554850248E08C900A751E7 /* Constants.swift */,
 				E913050124923A4D001CD0A7 /* ConstantsTemplate.swift */,
 				E9554852248E0C2300A751E7 /* Video.swift */,
 				E9554856248E272A00A751E7 /* Response.swift */,
 				E9554854248E100A00A751E7 /* Model.swift */,
+				E9554842248DE49F00A751E7 /* Main.storyboard */,
+				E9554840248DE49F00A751E7 /* ViewController.swift */,
+				E9554845248DE4A000A751E7 /* Assets.xcassets */,
+				E9554847248DE4A000A751E7 /* LaunchScreen.storyboard */,
+				E955484A248DE4A000A751E7 /* Info.plist */,
 			);
 			path = "youtube-onedaybuild";
 			sourceTree = "<group>";
