@@ -6,6 +6,8 @@
 //  Copyright © 2020 Shoes.s.Li. All rights reserved.
 //
 
+// 对 JSON 做出的反应
+
 import Foundation
 
 struct Response: Decodable {

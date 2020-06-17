@@ -6,16 +6,18 @@
 //  Copyright © 2020 Shoes.s.Li. All rights reserved.
 //
 
+// 这个class的目的主要是为了得到视频数据 make the api called
+
 import Foundation
 
 protocol ModelDelegate {
-    // 为在 viewcontroller 中返回得到的视频做准备
+    // 新建一个delegate, 为在 viewcontroller 中返回得到的视频做准备
     func videoFetched(_ videos: [Video])
 }
 
 class Model {
     
-    // 先设一个变量等着在 viewcontroller 中被召唤等于 itself
+    // 先设一个变量等着在 viewcontroller 中被召唤
     var delegate: ModelDelegate?
     
     func getVideos() {
